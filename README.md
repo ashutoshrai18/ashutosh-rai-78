@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
+
+<br/>
+
+<br/>
+
+<a href="https://github.com/ashutosh-rai-78">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-rai-78 &count_private=true&hide=stars&theme=dark" />
+
+</a>
+
+<br/>
+
+<br/>
+
+<a href="https://github.com/ashutosh-rai-78">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-rai-78 &layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
+
+</a>
