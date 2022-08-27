@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Rai</h1>
-<h3 align="center">I am a Mobile App Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-rai-78&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-rai-78" /> </p>
+<h1 align="left">Hi 👋, I'm Ashutosh Rai</h1>
+<h3 align="left">I am a Mobile App Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78" alt="ashutosh-rai-78" /></a> </p>
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF44xHI-jZIgw/profile-displaybackgroundimage-shrink_350_1400/0/1660488321161?e=1666828800&v=beta&t=vVO9L8IKofHegiNXFaOGOjWVUWOshG6IK2Ex5jCmP7k)]
 
-<p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge" alt="ashutosh_rai_78" /></a> </p>
+![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78" alt="ashutosh-rai-78" /></a> </p> -->
+
+<p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge" alt="ashutosh_rai_78" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -19,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashutosh_rai_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_rai_78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh rai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ashutosh-rai-78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a>
-<a href="https://instagram.com/ashutoshrai_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutoshrai_78" height="30" width="40" /></a>
-<a href="https://dribbble.com/ashutosh_rai_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ashutosh_rai_78" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashutosh_develo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a>
+<a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_rai_78" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh rai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh rai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ashutosh-rai-78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a>
+<a href="https://instagram.com/ashutoshrai_78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutoshrai_78" height="30" width="40" /></a>
+<a href="https://dribbble.com/ashutosh_rai_78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ashutosh_rai_78" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-rai-78&show_icons=true&locale=en" alt="ashutosh-rai-78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-rai-78&" alt="ashutosh-rai-78" /></p> -->
-![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
 <br/>
 <br/>
 <a href="https://github.com/ashutosh-rai-78">
