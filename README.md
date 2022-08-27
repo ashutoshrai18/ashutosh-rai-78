@@ -29,7 +29,6 @@
 <a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a>
 </p>
-</br>
 <a href="https://github.com/ashutosh-rai-78">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-rai-78&count_private=true&theme=dark" />
 </a>
@@ -48,20 +47,22 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 </p>
+
 <h3 align="left">Framework and Library:</h3>
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
-
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
+
 <h3 align="left">IDE</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
 </p>
+
 <h3 align="left">Design</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
