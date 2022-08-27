@@ -17,7 +17,7 @@
 <a href="https://twitter.com/ashutosh_rai_78" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
            alt="ashutosh_rai_78" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img align="center" src="https://en.wikipedia.org/wiki/HackerRank" alt="ashutosh_develo2" height="30" width="40" /></a>
 </p>
 
 - 🌱 I’m currently learning **Flutter**
