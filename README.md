@@ -18,6 +18,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
            alt="ashutosh_rai_78" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img align="center" src="https://en.wikipedia.org/wiki/HackerRank" alt="ashutosh_develo2" height="30" width="40" /></a>
+<i class="fa-brands fa-stack-overflow"></i>
 </p>
 
 - 🌱 I’m currently learning **Flutter**
