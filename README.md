@@ -6,9 +6,9 @@
 ![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78" alt="ashutosh-rai-78" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78&theme=dark" alt="ashutosh-rai-78" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge" alt="ashutosh_rai_78" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge&theme=dark" alt="ashutosh_rai_78" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -28,10 +28,8 @@
 <a href="https://github.com/ashutosh-rai-78">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-rai-78&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
 </a>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashutosh-rai78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh rai" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/ashutosh-rai78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh rai" height="30" width="40" /></a> -->
 <a href="https://stackoverflow.com/users/12134847/ashutosh-rai-78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a>
 <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_rai_78" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a>
@@ -47,8 +45,11 @@
 <h3 align="left">Framework and Library:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 <h3 align="left">IDE</h3>
 <p align="left">
@@ -63,5 +64,5 @@
           alt="Illustrator" width="40" height="40"/>  
 </p>
 
-
+<!-- README UPDATED -->
 <!-- ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF44xHI-jZIgw/profile-displaybackgroundimage-shrink_350_1400/0/1660488321161?e=1666828800&v=beta&t=vVO9L8IKofHegiNXFaOGOjWVUWOshG6IK2Ex5jCmP7k) -->
