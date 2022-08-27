@@ -1,15 +1,15 @@
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF44xHI-jZIgw/profile-displaybackgroundimage-shrink_350_1400/0/1660488321161?e=1666828800&v=beta&t=vVO9L8IKofHegiNXFaOGOjWVUWOshG6IK2Ex5jCmP7k)
 
 <h1 align="left">Hi 👋, I'm Ashutosh Rai</h1>
 <h3 align="left">I am a Mobile App Developer.</h3>
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF44xHI-jZIgw/profile-displaybackgroundimage-shrink_350_1400/0/1660488321161?e=1666828800&v=beta&t=vVO9L8IKofHegiNXFaOGOjWVUWOshG6IK2Ex5jCmP7k)]
 
 ![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78" alt="ashutosh-rai-78" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge" alt="ashutosh_rai_78" /></a> </p>
+![Twitter](https://twitter.com/ashutosh_rai_78)
+<!-- <p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge" alt="ashutosh_rai_78" /></a> </p> -->
 
 - 🌱 I’m currently learning **Flutter**
 
