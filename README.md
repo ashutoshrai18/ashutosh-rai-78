@@ -11,13 +11,13 @@
 <!-- <p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge&theme=dark" alt="ashutosh_rai_78" /></a> </p> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/ashutosh-rai78" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
            alt="ashutosh rai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12134847/ashutosh-rai-78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12134847/ashutosh-rai-78" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a>
 <a href="https://twitter.com/ashutosh_rai_78" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
            alt="ashutosh_rai_78" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img align="center" src="https://en.wikipedia.org/wiki/HackerRank" alt="ashutosh_develo2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank"><img src="https://en.wikipedia.org/wiki/HackerRank" alt="ashutosh_develo2" height="30" width="40" /></a>
 <i class="fa-brands fa-stack-overflow"></i>
 </p>
 
