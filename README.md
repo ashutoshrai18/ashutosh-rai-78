@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 
 <h1 align="left">Hi 👋, I'm Ashutosh Rai</h1>
 <h3 align="left">I am a Mobile App Developer.</h3>
 
 
 ![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
+
+=======
+
+<h1 align="left">Hi 👋, I'm Ashutosh Rai</h1>
+<h3 align="left">I am a Mobile App Developer.</h3>
+
+
+![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
+>>>>>>> 1743b38a1f3f564fefddc43de1ae64418592ad7f
 <a href="https://github.com/ashutosh-rai-78">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-rai-78&count_private=true&theme=dark" />
 </a>
@@ -12,8 +22,11 @@
 <a href="https://github.com/ashutosh-rai-78">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-rai-78&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
 </a>
+<<<<<<< HEAD
+=======
 <br/>
 
+>>>>>>> 1743b38a1f3f564fefddc43de1ae64418592ad7f
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78" alt="ashutosh-rai-78" /></a> </p> -->
 <!-- ![Twitter](https://twitter.com/ashutosh_rai_78) -->
 <!-- <p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge" alt="ashutosh_rai_78" /></a> </p> -->
