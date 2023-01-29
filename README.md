@@ -22,12 +22,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ashutosh-rai78" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ashutosh rai" height="30"          width="40" /></a>
-<a href="https://stackoverflow.com/users/12134847/ashutosh-rai-78" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/12134847/ashutosh-rai-78" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-rai-78" height="30" width="40" /></a> -->
 <a href="https://twitter.com/ashutosh_rai_78" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="ashutosh_rai_78" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/ashutosh_develo2" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh_develo2" height="30" width="40" /></a> -->
 </p>
 <a href="https://github.com/ashutosh-rai-78">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-rai-78&count_private=true&theme=dark" />
