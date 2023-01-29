@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78&theme=dark" alt="ashutosh-rai-78" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78&theme=dark" alt="ashutosh-rai-78" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/ashutosh_rai_78" target="_blank"><img src="https://img.shields.io/twitter/follow/ashutosh_rai_78?logo=twitter&style=for-the-badge&theme=dark" alt="ashutosh_rai_78" /></a> </p> -->
 
