@@ -3,7 +3,7 @@
 <h3 align="left">I am a Mobile App Developer.</h3>
 
 
-![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78)
+<!-- ![Profile views](https://gpvc.arturio.dev/ashutosh-rai-78) -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rai-78&theme=dark" alt="ashutosh-rai-78" /></a> </p> -->
 
